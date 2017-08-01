@@ -15,4 +15,4 @@ When assembled and installed on a donor 48T02 IC, they look like this:
 * CR1225 3V lithium cell (Renata CR1225.IB or similar)
 * 32.768 KHz crystal, 2mm body, 12.5 pF load capacitance (LFXTAL002997Bulk or similar)
 
-The above components can be purchased from Mouser. [Glitch Works](http://www.glitchwrks.com/) provides the GW-48T02-1 modules in panels or partial panels, as well as fully assembled replacement modules, and assembled/tested complete 48T02 replacements. Use the contact link at the top of the page to order, or [see here](http://www.glitchwrks.com/2017/08/01/gw-48t02-1) for ordering instructions.
+The above components can be purchased from Mouser. [Glitch Works](http://www.glitchwrks.com/) provides the GW-48T02-1 modules in panels or partial panels, as well as fully assembled replacement modules, and assembled/tested complete 48T02 replacements. Use the contact link on [this page](http://www.glitchwrks.com/) to order, or [see here](http://www.glitchwrks.com/2017/08/01/gw-48t02-1) for ordering instructions.
